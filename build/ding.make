@@ -186,10 +186,10 @@ projects[wysiwyg][version] = "2.1"
 
 ; Themes
 projects[tao][location] = "http://code.developmentseed.org/fserver"
-projects[tao][version] = "2.2"
+projects[tao][version] = "3.1"
 
 projects[rubik][location] = "http://code.developmentseed.org/fserver"
-projects[rubik][version] = "2.0-beta4"
+projects[rubik][version] = "3.0-beta1"
 
 projects[mothership][version] = "1.1" 
 
@@ -222,6 +222,10 @@ projects[ting][download][url] = "git://github.com/dingproject/ting.git"
 projects[metropol][type] = "theme"
 projects[metropol][download][type] = "git"
 projects[metropol][download][url] = "git://github.com/phmetropol/metropol.git"
+
+projects[metropol_mod][type] = "module"
+projects[metropol_mod][download][type] = "git"
+projects[metropol_mod][download][url] = "git://github.com/phmetropol/metropol-modules.git"
 
 projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][version] = "2.2"
