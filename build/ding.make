@@ -4,6 +4,9 @@ projects[] = drupal
 
 ; Contrib projects
 
+projects[menu_block][subdir] = "contrib"
+projects[menu_block][version] = "2.3"
+
 projects[admin][subdir] = "contrib"
 projects[admin][version] = "2.0-rc1"
 
