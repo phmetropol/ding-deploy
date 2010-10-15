@@ -124,9 +124,9 @@ projects[masquerade][version] = "1.4"
 projects[oembed][subdir] = "contrib"
 projects[oembed][version] = "0.6"
 
-projects[office_hours][type] = "module" 
+projects[office_hours][type] = "module"
 projects[office_hours][subdir] = "contrib"
-projects[office_hours][download][type] = "git" 
+projects[office_hours][download][type] = "git"
 projects[office_hours][download][url] = "git://github.com/mikl/drupal-office_hours.git"
 projects[office_hours][download][revision] = "9a33296734d534a20a66731de2008cf17f4f71e5"
 
@@ -194,14 +194,14 @@ projects[tao][version] = "3.1"
 projects[rubik][location] = "http://code.developmentseed.org/fserver"
 projects[rubik][version] = "3.0-beta1"
 
-projects[mothership][version] = "1.1" 
+projects[mothership][version] = "1.1"
 
 ; Ding theme
 
-projects[dynamo][type] = "theme" 
-projects[dynamo][download][type] = "git" 
+projects[dynamo][type] = "theme"
+projects[dynamo][download][type] = "git"
 projects[dynamo][download][url] = "git://github.com/dingproject/dynamo.git"
-projects[dynamo][download][revision] = "v3.0.x"
+projects[dynamo][download][branch] = "v3.0.x"
 
 ; Ding modules
 
@@ -213,19 +213,19 @@ projects[openruth][type] = "module"
 projects[openruth][download][type] = "git"
 projects[openruth][download][url] = "git://github.com/dingproject/openruth.git"
 
-projects[ding][type] = "module" 
-projects[ding][download][type] = "git" 
+projects[ding][type] = "module"
+projects[ding][download][type] = "git"
 projects[ding][download][url] = "git://github.com/dingproject/ding.git"
-projects[ding][download][revision] = "v2.0.x"
+projects[ding][download][branch] = "v2.0.x"
 
-projects[ding_campaign][type] = "module" 
-projects[ding_campaign][download][type] = "git" 
+projects[ding_campaign][type] = "module"
+projects[ding_campaign][download][type] = "git"
 projects[ding_campaign][download][url] = "git://github.com/dingproject/ding-campaign.git"
 
-projects[ting][type] = "module" 
-projects[ting][download][type] = "git" 
+projects[ting][type] = "module"
+projects[ting][download][type] = "git"
 projects[ting][download][url] = "git://github.com/dingproject/ting.git"
-projects[ting][download][revision] = "v2.0.x"
+projects[ting][download][branch] = "v2.0.x"
 
 ; Metropol-specific modules
 
